@@ -1,0 +1,5 @@
+package com.jspiders.factorymobile.main;
+
+public class MobileFactory {
+
+}

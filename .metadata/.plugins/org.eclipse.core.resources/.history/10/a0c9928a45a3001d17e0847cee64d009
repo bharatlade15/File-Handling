@@ -1,0 +1,9 @@
+package com.jspiders.filehandaling.read;
+
+import java.io.File;
+
+ class CharStreamRead{
+	public static void main(String[] args) {
+		File file=new File("CharStream");
+	}
+}

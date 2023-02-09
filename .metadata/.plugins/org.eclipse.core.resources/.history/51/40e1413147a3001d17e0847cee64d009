@@ -1,0 +1,5 @@
+package com.jspiders.filehandaling.read;
+
+public class CharStreamRead {
+
+}

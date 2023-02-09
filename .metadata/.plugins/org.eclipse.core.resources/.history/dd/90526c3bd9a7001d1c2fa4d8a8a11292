@@ -1,0 +1,5 @@
+package com.jspiders.factory.object;
+
+public class BlackTea {
+
+}

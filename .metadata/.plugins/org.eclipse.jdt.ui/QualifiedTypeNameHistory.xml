@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.thread.MyThread1"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.thread.MyThread2"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.thread.MyThread3"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.thread.MyThread4"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingwaitandnotify.resource.Cab"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingwaitandnotify.thread.Friends"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingwaitandnotify.thread.Ola"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.UnknownError"/>
+    <fullyQualifiedTypeName name="com.jspiders.serializationdeserialization.main.UserMain"/>
+    <fullyQualifiedTypeName name="com.jspiders.serializationdeserialization.object.User"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.jspiders.singleton.object.SingletonLazy"/>
+    <fullyQualifiedTypeName name="com.jspiders.singleton.main.SingletonEagerMain"/>
+    <fullyQualifiedTypeName name="com.jspiders.singleton.object.SingletonEager"/>
+    <fullyQualifiedTypeName name="com.jspiders.factory.beverage.Beverage"/>
+    <fullyQualifiedTypeName name="com.jspiders.factory.object.Tea"/>
+    <fullyQualifiedTypeName name="com.jspiders.factory.object.BlackTea"/>
+    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
+    <fullyQualifiedTypeName name="com.jspiders.factory.object.GingerTea"/>
+    <fullyQualifiedTypeName name="com.jspiders.factory.object.MasalaTea"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.main.MobileFactory"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.object.SamsungS23"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.mobile.Mobile"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.object.Pixel7Pro"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.object.OnePlus11Pro"/>
+    <fullyQualifiedTypeName name="com.jspiders.factorymobile.object.Nothing1"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.jspiders.builderdesignpattern.object.Contact"/>
+    <fullyQualifiedTypeName name="com.jspiders.builderdesignpattern.builder.ContactBuilder"/>
+</qualifiedTypeNameHistroy>

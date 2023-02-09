@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jspiders.singleton.onject&apos; to &apos;com.jspiders.singleton.object&apos;&#x0D;&#x0A;- Original project: &apos;singleton&apos;&#x0D;&#x0A;- Original element: &apos;singleton/src/com.jspiders.singleton.onject&apos;&#x0D;&#x0A;- Renamed element: &apos;singleton/src/com.jspiders.singleton.object&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jspiders.singleton.onject&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.jspiders.singleton.onject" name="com.jspiders.singleton.object" qualified="false" references="true" stamp="1675790634872" textual="false" version="1.0"/>
+</session>
